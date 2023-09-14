@@ -4,7 +4,8 @@ Created on Sat Sep 9 23:09:07 2023
 
 This is a script file for European data analysis.
 
-@author: Ugur Karakal
+@author     : Ugur Karakal
+e-mail      : ugur.karakal@gmail.com
 """
 
 import os
