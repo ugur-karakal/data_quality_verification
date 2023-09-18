@@ -1,4 +1,4 @@
 # data_quality_verification
-Data quality verification solution
+Data accuracy verification solution
 
-This is Data Analytics solution via Python (Pandas, NumPy) to verify statistical data of a data system comparing to raw data of the mobile core network equipments.
+This is Data Analysis solution via Python (Pandas, NumPy) to verify statistical data accuracy of a system using Python data science modules e.g Pandas, NumPy.
